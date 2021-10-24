@@ -12,7 +12,7 @@ The word list contains ~2.4 million unfiltered words estimated from 4 portions
 of the [OSCAR CORPUS v2019](https://oscar-corpus.com/)'s Portuguese version.
 If you need the filtered version with the top-250k most frequent words instead,
 feel free to use these very same scripts on the vocabulary file that accompanies
-[FalaBrasil's n-gram language model training scripts :octocat:](https://github.com/lm-br).
+[FalaBrasil's n-gram language model training scripts :octocat:](https://github.com/falabrasil/lm-br).
 
 
 ## License
